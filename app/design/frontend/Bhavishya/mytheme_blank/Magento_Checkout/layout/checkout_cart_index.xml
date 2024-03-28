@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <!-- <referenceBlock namevendor/magento/module-checkout/view/frontend/templates/cart/shipping.phtml="checkout.cart.shipping" remove="true"></referenceBlock> -->
+    </body>
+</page>
